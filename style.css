@@ -1,5 +1,41 @@
-body {
-  width: 100%;
-  height: 100%;
-  margin: 0;
+body 
+h1 {
+    width: 100%;
+    height: 100%;
+     margin: 0;
+     text-align: center;
+
+} 
+figure {
+     width: auto;
+     height: auto;
+     text-align: center;
+
 }
+nav 
+a {   
+     width: auto;
+     height: auto;
+     text-align: center;
+     right: 10px;
+     left: 10px;
+     background-color: yellow;
+     
+}
+#details a {
+  right: 10px;
+  left: 10px;
+  
+}
+
+#featured-property {
+    width: 800px;
+    text-align: center;
+    
+}
+
+             
+div {
+  display: grid;
+  place-items: center;
+} 
